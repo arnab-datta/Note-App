@@ -6,7 +6,7 @@
 Open your command prompt/terminal/Git Bash and type :-  `git clone https://github.com/arnab-datta/Note-App.git`
 
 ### Adding node modules for this application
- npm install 
+> npm install 
 
 ### Run the application using command line
 
